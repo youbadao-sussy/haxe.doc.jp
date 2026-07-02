@@ -65,7 +65,9 @@ nav = [
             { "基本型" = [
                 "manual/types/basic/index.md",
                 {"数値型" = "manual/types/basic/basic_1.md"},
-                {"オーバーフロー" = "manual/types/basic/basic_2.md"}
+                {"オーバーフロー" = "manual/types/basic/basic_2.md"},
+                {"Boolean" = "manual/types/basic/basic_3.md"},
+                {"Void" = "manual/types/basic/basic_4.md"}
             ]}
         ]}
     ]}
