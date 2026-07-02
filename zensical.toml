@@ -70,10 +70,11 @@ nav = [
                 {"Void" = "manual/types/basic/basic_4.md"},
                 {"Nullability" = "manual/types/basic/basic_5.md"}
             ]}
-        ]},
-        { "APIリファレンス" = [
-            {"Class" = "manual/api/class.md"}
         ]}
+    ]},
+    { "APIリファレンス" = [
+        "api/index.md",
+        {"Class" = "api/class.md"}
     ]}
 ]
 
